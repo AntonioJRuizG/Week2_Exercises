@@ -1,5 +1,5 @@
 {
-  "name": "challenge5",
+  "name": "exercises_week2",
   "version": "1.0.0",
   "description": "Ejercicios semana 2",
   "main": "index.js",
@@ -17,5 +17,4 @@
   "prettier": {
     "singleQuote": true
   }
-
 }
